@@ -1,0 +1,15 @@
+{
+  "name": "borkbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" :  "node bork.js"
+  },
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js",
+    "strtotime": "^1.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
